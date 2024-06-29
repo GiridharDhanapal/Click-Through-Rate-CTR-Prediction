@@ -2,10 +2,17 @@
 
 Embarking on a mission to improve the forecast of click-through rates in the ever-changing realm of internet advertising, motivated by a strong feeling of purpose and determination.
 
+<img width="307" alt="3" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/3c113fa2-660d-49c8-87d0-f26b55984aa5">
+
+<img width="402" alt="4" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/193eb6f9-d656-454d-af1a-09d5b745f7bb">
+
 # Introduction
 
 The foundation of CTR prediction lies in the analysis of vast volumes of historical user interactions with online ads. The knowledge gained from these interactions enables advertisers, ad platforms, and content providers to tailor their offerings to individual preferences, thereby increasing user engagement and the overall effectiveness of ad campaigns. The capacity to forecast user behaviour, specifically the likelihood of engaging on advertisements, has become the most important attribute of digital advertising. This project undertakes a comprehensive investigation of CTR prediction using predictive models, revealing the complexities of machine learning, ensemble learning, and deep learning techniques used to uncover the potential of predicting user responses to online advertising.
 
+<img width="391" alt="1" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/01af0323-2d40-4d83-940f-0d062e87c0a2">
+
+<img width="495" alt="2" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/68fee966-89b9-45a8-b7d6-7513eb957b12">
 
 # Aim
 
@@ -17,6 +24,13 @@ The foundation of CTR prediction lies in the analysis of vast volumes of histori
 
 * Informed by empirical evidence, provide actionable insights and recommendations for selecting the most appropriate analytical approach to predict online ad click-through rates.
 
+<img width="478" alt="5" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/4b2a88fb-ad7d-4971-9008-8aba38ab68a6">
+
+<img width="485" alt="6" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/51c4da0c-a1a3-4bfa-8bab-3ef2196ed883">
+
+<img width="257" alt="7" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/e809fe5f-ea23-4e33-b8eb-f534a9a81531">
+
+<img width="482" alt="9" src="https://github.com/GiridharDhanapal/Click-Through-Rate-CTR-Prediction/assets/117945886/cd37f9f7-8f70-4280-a8e6-69c120584101">
 
 # Dataset Selection and Source
 
